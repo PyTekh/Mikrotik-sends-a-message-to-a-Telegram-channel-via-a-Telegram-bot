@@ -1,9 +1,9 @@
 # Mikrotik-sending-message-to-channel-via-telegram-bot
 
-This project will be simple.
+Этот проект будет простым.
 
-Let's just add a script to Netwatch.
+Просто надо добавит скрипт в Netwatch.
 
 <img width="1226" height="553" alt="image" src="https://github.com/user-attachments/assets/b404406f-02a6-40cd-bfcc-3216e1f272bc" />
 
-The time for the script to be triggered can be set from 1 second to 10 minutes.
+Время срабатывания скрипта может быть установлено в диапазоне от 1 секунды до 10 минут.
